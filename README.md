@@ -1,6 +1,3 @@
-# kishorkumarandekar
-Kishor Kumar Andekar
-
 # 💫 About Me:
 <p dir="auto">
   👨‍💻 <strong>I’m currently working on:</strong> <small>Dynamic Portfolio Project</small><br /><br />
