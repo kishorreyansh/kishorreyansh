@@ -1,8 +1,8 @@
 # 💫 About Me:
 <p dir="auto">
-  👨‍💻 <strong>I’m currently working on:</strong> <small>Dynamic Portfolio Project</small><br /><br />
+  👨‍💻 <strong>I’m currently working on:</strong> <small>Dynamic Portfolio Project in React</small><br /><br />
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
-  🌱 <strong>I’m currently learning:</strong> <small>AWS</small><br /><br />
+  🌱 <strong>I’m currently learning:</strong> <small>React & AWS</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Teamsite</small><br /><br />
   🚀 <strong>Experience:</strong> <small>8 Years of Coding in Development in Verizon, OpenText and DBS</small>
 </p>
