@@ -5,8 +5,7 @@
   🌱 <strong>I’m currently learning:</strong> <small> React and DSA and Spring Boot</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Teamsite</small><br /><br />
   🚀 <strong>Experience:</strong> <small>8 Years of Coding in Development in Verizon, OpenText and DBS</small> <br /><br />
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) <br /> <br />
-  <strong>Certifications:</strong> <small AWS Certified Cloud Practitioner</small>
+  ![AWS](https://github.com/user-attachments/assets/1584cb67-a06f-48a0-af45-2ffa64ab8fd1) <strong>Certifications:</strong> <small AWS Certified Cloud Practitioner</small>
 
 </p>
 
