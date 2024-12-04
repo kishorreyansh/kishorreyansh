@@ -5,6 +5,8 @@
   🌱 <strong>I’m currently learning:</strong> <small> React and DSA and Spring Boot</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Teamsite</small><br /><br />
   🚀 <strong>Experience:</strong> <small>8 Years of Coding in Development in Verizon, OpenText and DBS</small>
+  ![image](https://github.com/user-attachments/assets/7a3a365b-bcaa-4bf8-bca9-a6086ab51faa) <strong>Certifications:</strong> <small AWS Cloud Practitoner</small>
+
 </p>
 
 ## 🌐 Socials:
