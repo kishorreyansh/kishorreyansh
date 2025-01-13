@@ -5,8 +5,7 @@
   🌱 <strong>I’m currently learning:</strong> <small> React and DSA and Spring Boot</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Teamsite</small><br /><br />
   🚀 <strong>Experience:</strong> <small>8 Years of Coding in Development in Verizon, OpenText and DBS</small> <br /><br />
-  🚀 <strong>Certifications:</strong> <small>AWS Certified Cloud Practitioner</small> <br /><br />
-
+  🚀 <strong>Certifications:</strong> <ul> <li><strong>AWS Certified Developer – Associate</strong></li> <li><strong>AWS Certified Cloud Practitioner</strong></li> </ul><br /><br />
 </p>
 
 ## 🌐 Socials:
