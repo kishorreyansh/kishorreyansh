@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p dir="auto">
-  👨‍💻 <strong>I’m currently working on:</strong> <small>Spring , DSA and React Projects</small><br /><br />
+  👨‍💻 <strong>I’m currently working on:</strong> <small>Spring Boot , DSA and React Projects</small><br /><br />
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
   🌱 <strong>I’m currently learning:</strong> <small> React and DSA and Spring Boot</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Core Java , Spring and Teamsite</small><br /><br />
