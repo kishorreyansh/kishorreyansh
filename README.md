@@ -2,7 +2,7 @@
 <p dir="auto">
   👨‍💻 <strong>I’m currently working on:</strong> <small>Spring Boot , DSA and React Projects</small><br /><br />
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
-  🌱 <strong>I’m currently learning:</strong> <small> React and DSA and Spring Boot</small><br /><br />
+  🌱 <strong>I’m currently learning:</strong> <small> Spring Boot, React and DSA</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Core Java , Spring and Teamsite</small><br /><br />
   🚀 <strong>Experience:</strong> <small>8 Years of Coding in Development in Verizon, OpenText and DBS</small> <br /><br />
   🚀 <strong>Certifications:</strong> <ul> <li><strong>AWS Certified Developer – Associate</strong></li> <li><strong>AWS Certified Cloud Practitioner</strong></li> </ul><br /><br />
@@ -33,4 +33,4 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Welcome to my GitHub Profile ! My Name is Kishor Kumar Andekar and I am a FrontEnd Developer with a passion for writing clean and efficient code. On my profile, you'll find a variety of projects that demonstrate my skills in various languages. I am always looking for opportunities to learn and grow as a developer, and am excited to contribute to meaningful projects with like-minded individuals.
+## Welcome to my GitHub Profile ! My Name is Kishor Kumar Andekar and I am a FullStack Developer with a passion for writing clean and efficient code. On my profile, you'll find a variety of projects that demonstrate my skills in various languages. I am always looking for opportunities to learn and grow as a developer, and am excited to contribute to meaningful projects with like-minded individuals.
