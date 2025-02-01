@@ -1,9 +1,9 @@
 # 💫 About Me:
 <p dir="auto">
-  👨‍💻 <strong>I’m currently working on:</strong> <small>Spring Boot , DSA and React Projects</small><br /><br />
+  👨‍💻 <strong>I’m currently working on:</strong> <small>Spring Boot, DSA and React Projects</small><br /><br />
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
   🌱 <strong>I’m currently learning:</strong> <small> Spring Boot, React and DSA</small><br /><br />
-  🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Core Java , Spring and Teamsite</small><br /><br />
+  🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Core Java, Spring and Teamsite</small><br /><br />
   🚀 <strong>Experience:</strong> <small>8 Years of Coding in Development in Verizon, OpenText and DBS</small> <br /><br />
   🚀 <strong>Certifications:</strong> <ul> <li><strong>AWS Certified Developer – Associate</strong></li> <li><strong>AWS Certified Cloud Practitioner</strong></li> </ul><br /><br />
 </p>
