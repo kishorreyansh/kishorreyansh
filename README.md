@@ -1,6 +1,5 @@
 # 💫 About Me:
 <p dir="auto">
-  🙋 <strong>### Hi there, I'm [Kishor Kumar Andekar](https://kishorandekar.com) 👋 </strong> <br />
   👨‍💻 <strong>I’m currently working on:</strong> <small>Spring Boot, MicroServices, DSA and React Projects.</small><br /><br />
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
   🌱 <strong>I’m currently learning:</strong> <small> Angular, Spring Boot, MicroServices, React and DSA</small><br /><br />
