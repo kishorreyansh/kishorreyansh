@@ -6,7 +6,7 @@
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Core Java, Spring and Spring Boot and Teamsite</small><br /><br />
   <!---🚀 <strong>Experience:</strong> <small>7 Years of Coding in Development in Verizon, OpenText, DBS and Polaris.</small> <br /><br />-->
   <!-- [![Kishor](https://img.shields.io/badge/Kishor-black.svg?logo=About.me&logoColor=white)](https://www.kishorandekar.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishorandekar)  -->
-  🚀 <strong>Certifications:</strong> <ul> <li><strong>AWS Certified Developer – Associate</strong></li> <li><strong>AWS Certified Cloud Practitioner</strong></li> <li><strong>Oracle Certified Professional: Java SE 6 Programmer</strong></li></ul><br /><br />
+  🚀 <strong>Certifications:</strong> <ul> <li><strong>AWS Certified Developer – Associate</strong></li> <li><strong>AWS Certified Cloud Practitioner</strong></li> <li><strong>Microsoft Certified: Azure Developer Associate</strong></li> <li><strong>Oracle Certified Professional: Java SE 6 Programmer</strong></li></ul><br /><br />
 </p>
 
 ## 🌐 Socials:
