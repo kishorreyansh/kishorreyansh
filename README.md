@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p dir="auto">
-  👨‍💻 <strong>I’m currently working on:</strong> <small>Spring Boot, MicroServices, DSA and React Projects.</small><br /><br />
+  👨‍💻 <strong>I’m currently working on:</strong> <small>DSA and React Projects.</small><br /><br />
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
   🌱 <strong>I’m currently learning:</strong> <small> Angular 19, AWS, Spring Boot, MicroServices, React and DSA</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Core Java, Spring and Spring Boot and Teamsite</small><br /><br />
