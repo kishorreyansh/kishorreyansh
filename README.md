@@ -2,7 +2,7 @@
 <p dir="auto">
   👨‍💻 <strong>I’m currently working on:</strong> <small>Data Structures and Algorithms.</small><br /><br />
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
-  🌱 <strong>I’m currently learning:</strong> <small> Angular 19, AWS, Spring Boot, MicroServices, React and DSA</small><br /><br />
+  🌱 <strong>I’m currently learning:</strong> <small> Angular 19, AWS, Spring Boot, MicroServices, React and DSA.</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, Ext JS, Angular, React, Core Java, Spring and Spring Boot and Teamsite</small><br /><br />
   <!---🚀 <strong>Experience:</strong> <small>7 Years of Coding in Development in Verizon, OpenText, DBS and Polaris.</small> <br /><br />-->
   <!-- [![Kishor](https://img.shields.io/badge/Kishor-black.svg?logo=About.me&logoColor=white)](https://www.kishorandekar.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishorandekar)  -->
