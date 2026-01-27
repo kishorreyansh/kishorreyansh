@@ -56,19 +56,12 @@ I enjoy working across the stack — from crafting clean UIs to designing robust
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishorreyansh&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorreyansh&layout=compact&theme=dark)
-
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishorreyansh&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishorreyansh&theme=dark&hide_border=false&cache_seconds=1800)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kishorreyansh&theme=dark&hide_border=false&cache_seconds=1800)<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorreyansh&layout=compact&theme=dark)
-
-
-
 
 ---
 
