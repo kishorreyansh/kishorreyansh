@@ -3,7 +3,7 @@
 **Full Stack Developer | Java, Spring Boot, Angular, React | AWS Certified**
 
 I’m a passionate Full Stack Developer with strong experience in building **scalable, maintainable, and enterprise-ready web applications**.  
-I enjoy working across the stack — from crafting clean UIs to designing robust backend services and APIs.
+I enjoy working across the stack — from crafting clean UIs to designing robust backend services and API's.
 
 ---
 
